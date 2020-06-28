@@ -1,0 +1,39 @@
+body {
+    background: #93B49E;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+nav {
+    color: #F3FFB6;
+}
+
+header {
+    margin-top: 80px;
+}
+
+h1, h2 {
+    color: #F3FFB6;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+.logo_parceiros {
+    width: 130px;
+}
+
+.logo_contato {
+    width: 30px;
+}
