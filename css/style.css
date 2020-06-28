@@ -6,8 +6,21 @@ body {
 }
 
 nav {
-    color: #F3FFB6;
+    display: flex;
+    align-items: center;
+    color: #3b3b39;
 }
+
+ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+li {
+    margin: 20px;
+    color: #3b3b39;
+}
+
 
 header {
     margin-top: 80px;
@@ -36,4 +49,9 @@ footer {
 
 .logo_contato {
     width: 30px;
+}
+
+
+.logo_contato {
+    align-items: center;
 }
